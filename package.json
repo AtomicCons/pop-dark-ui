@@ -1,0 +1,17 @@
+{
+  "name": "pop-dark-ui",
+  "theme": "ui",
+  "version": "0.0.0",
+  "description": "This theme is based and inspired from System76 POP!_OS theme",
+  "keywords": [
+    "ui",
+    "theme",
+    "pop",
+    "System76"
+  ],
+  "repository": "https://github.com/atom-community/ui-theme-template",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
